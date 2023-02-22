@@ -26,4 +26,5 @@ NPM RUN DEV
 
 ## ScreenRecording
 
-<video src='./assets/screenRecording.mp4' width=100%/>
+https://user-images.githubusercontent.com/114849473/220492973-e78d3a11-00fd-434e-9b42-2b627a4f0a22.mp4
+
